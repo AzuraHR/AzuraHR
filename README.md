@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AzuraHR
+- 👋 Hi, I’m @AzuraHR, a French-Croatian developper
 - 👀 I’m interested in C++ C#
 - 🌱 I’m currently learning C#
-- 📫 How to reach me owner@azuradoo.online 
+- 📫 How to reach me owner@serveronline.tech
 
 <!---
 AzuraHR/AzuraHR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
